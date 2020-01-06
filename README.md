@@ -38,5 +38,5 @@ yarn start-st
    
     ![QR code open in explorer](assets/QR.png)
 
-3. Just wait the app open in your devivce
+3. Just wait the app open in your device
 
