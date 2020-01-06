@@ -6,7 +6,7 @@ const AppNavigator = createStackNavigator(
     {
         Home: {
             screen: HomeScreen,
-            navigationOptions: { title: 'Lista de hoteles'}
+            navigationOptions: { title: 'Lista de hoteles'},
         },
         Details: {
             screen: DetailsScreen,
