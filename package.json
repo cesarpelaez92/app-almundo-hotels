@@ -10,9 +10,10 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-google-maps/api": "^2.2.0",
     "@react-native-community/masked-view": "^0.1.5",
     "apisauce": "^1.1.1",
-    "expo": "~36.0.0",
+    "expo": "~38.0.0",
     "gulp": "^4.0.2",
     "gulp-clean": "^0.4.0",
     "gulp-rename": "^2.0.0",
